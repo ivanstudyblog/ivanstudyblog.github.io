@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Test project post
 categories: [Miscellaneous, Jekyll]
 ---
