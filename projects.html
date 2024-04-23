@@ -6,14 +6,14 @@ layout: default
   {% for project in paginator.projects %}
     <article class="project">
       <a href="{{ site.baseurl }}{{ project.url }}">
-        <h1>{{ post.title }}</h1>
+        <h1>{{ project.title }}</h1>
 
         <div>
-          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+          <p class="project_date">{{ project.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
       <div class="entry">
-        {{ post.excerpt }}
+        {{ project.excerpt }}
       </div>
 
       <a href="{{ site.baseurl }}{{ project.url }}" class="read-more">Read More</a>
