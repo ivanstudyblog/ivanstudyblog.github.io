@@ -8,7 +8,7 @@ title: Projects
 {% for category in site.categories %}
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% if category_name=='HTML': %}
+    {% if category_name=='HTML' %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
