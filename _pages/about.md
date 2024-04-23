@@ -17,7 +17,7 @@ Topics covered so far:
 * Natural Language Processing
 * Graph Neural Networks
 
-The list is not in order, I keep going between high and low-level concepts, so that I do not fall victim to the [law of leaky abstractions](https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/). 
+The list is not in order, I keep going between high and low-level concepts, so that I do not fall victim to the <a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" target="_blank">law of leaky abstractions</a>
 
 Courses covered:
 * aaa
