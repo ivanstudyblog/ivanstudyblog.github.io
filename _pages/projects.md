@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: project
+title: Projects
+permalink: /projects/
 ---
 
 <div class="projects">
