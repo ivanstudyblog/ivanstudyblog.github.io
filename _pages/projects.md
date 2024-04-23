@@ -4,10 +4,9 @@ permalink: /projects/
 title: Projects
 ---
 
-<div id="projects">
-  {% print(type(site.categories), site.categories) %}
-{% for category in [i for i in site.categories if i == 'HTML'] %}
-  <div class="projects-group">
+<div id="archives">
+{% for category in [i for i in site.categories if i == "HTML"] %}
+  <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
