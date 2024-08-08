@@ -8,20 +8,6 @@ Hello!
 
 On the 2nd of January 2024, I embarked on a, what I thought would be, 50 day journey to learn about Machine Learning. It is way past the 50 day mark, and I keep learning and blogging. 
 
-Topics covered so far:
-* Calculus
-* Probability and statistics
-* Classical ML methods
-* Deep learning
-* Computer vision
-* Natural Language Processing
-* Graph Neural Networks
+On Day 100 I knew it was not over, so I continued.
 
-The list is not in order, I keep going between high and low-level concepts, so that I do not fall victim to the <a href="https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/" target="_blank">law of leaky abstractions</a>
-
-Courses covered:
-* aaa
-
-Books read:
-* aaa
-
+After a few days I decided to go for the full year.
