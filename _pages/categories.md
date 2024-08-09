@@ -49,6 +49,21 @@ title: Categories
   .archive-item h4 a:hover {
     text-decoration: underline;
   }
+
+  /* Styling the chart */
+  #category-chart-container {
+    margin-top: 30px;
+    padding: 15px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+  }
+
+  #category-chart {
+    width: 100%;
+    height: 400px;
+  }
 </style>
 
 <div id="archives">
@@ -77,8 +92,14 @@ title: Categories
       </div>
     {% endfor %}
   </div>
+
+  <!-- Bar Chart Container -->
+  <div id="category-chart-container">
+    <canvas id="category-chart"></canvas>
+  </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
   // JavaScript to show selected category
   document.getElementById('category-select').addEventListener('change', function() {
@@ -89,6 +110,44 @@ title: Categories
     });
     if (selectedCategory) {
       document.querySelector(selectedCategory).style.display = 'block';
+    }
+  });
+
+  // JavaScript to create the bar chart
+  var ctx = document.getElementById('category-chart').getContext('2d');
+  var categoryData = {
+    labels: [
+      {% for category in site.categories %}
+        {% capture category_name %}{{ category | first }}{% endcapture %}
+        "{{ category_name }}",
+      {% endfor %}
+    ],
+    datasets: [{
+      label: 'Number of Posts',
+      data: [
+        {% for category in site.categories %}
+          {{ site.categories[category_name].size }},
+        {% endfor %}
+      ],
+      backgroundColor: 'rgba(0, 123, 255, 0.5)',
+      borderColor: 'rgba(0, 123, 255, 1)',
+      borderWidth: 1
+    }]
+  };
+
+  var categoryChart = new Chart(ctx, {
+    type: 'bar',
+    data: categoryData,
+    options: {
+      responsive: true,
+      scales: {
+        y: {
+          beginAtZero: true,
+          ticks: {
+            precision: 0
+          }
+        }
+      }
     }
   });
 </script>
