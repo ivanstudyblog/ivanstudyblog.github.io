@@ -28,9 +28,7 @@ title: Projects
 
 <style>
   #projects {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
+    display: block;
   }
 
   .project-item {
@@ -38,8 +36,8 @@ title: Projects
     padding: 20px;
     border-radius: 8px;
     width: 100%;
-    max-width: 300px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
   }
 
   .project-item h3 {
