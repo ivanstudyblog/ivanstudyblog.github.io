@@ -51,9 +51,6 @@ title: Categories
   }
 </style>
 
-<!-- Chart Container -->
-<canvas id="categoryChart" width="400" height="200"></canvas>
-
 <div id="archives">
   <label for="category-select">Choose a category:</label>
   <select id="category-select" onchange="location = this.value;">
@@ -82,34 +79,7 @@ title: Categories
   </div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-  // Prepare the category data
-  var categoryData = {
-    labels: [{% for category in site.categories %}"{{ category | first }}",{% endfor %}],
-    datasets: [{
-      label: 'Number of Posts',
-      data: [{% for category in site.categories %}{{ site.categories[category | first].size }},{% endfor %}],
-      backgroundColor: 'rgba(75, 192, 192, 0.2)',
-      borderColor: 'rgba(75, 192, 192, 1)',
-      borderWidth: 1
-    }]
-  };
-
-  // Create the chart
-  var ctx = document.getElementById('categoryChart').getContext('2d');
-  var categoryChart = new Chart(ctx, {
-    type: 'bar',
-    data: categoryData,
-    options: {
-      scales: {
-        y: {
-          beginAtZero: true
-        }
-      }
-    }
-  });
-
   // JavaScript to show selected category
   document.getElementById('category-select').addEventListener('change', function() {
     var selectedCategory = this.value;
