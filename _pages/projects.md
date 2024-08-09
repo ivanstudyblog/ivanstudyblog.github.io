@@ -6,7 +6,7 @@ title: Projects
 
 <div id="projects">
   <div class="project-item">
-    <h3>MLOps Architecture for Real-Time Graph Database Fraud Detection</h3>
+    <h3>MLOps Architecture for Real-Time Fraud Detection</h3>
     <p>An AI-driven solution for real-time credit card fraud detection using MLOps techniques. It involves fully orchestrated pipelines, including data ingestion, model training, and real-time prediction and monitoring. The system focuses on high fraud case detection through Graph Convolutional Network, XGBoost, and CatBoost models.
     </p>
     <p><b>Tech: Neo4j graph DB, Sklearn, PyG, Mlflow, Kafka, Grafana, Mage orchestration, Docker, Streamlit</b></p>
