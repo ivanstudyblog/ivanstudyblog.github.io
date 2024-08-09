@@ -4,20 +4,56 @@ permalink: /projects/
 title: Projects
 ---
 
-<div id="archives">
-{% for category in site.categories %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    {% if category_name=='HTML' %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <p></p>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
-    <article class="archive-item">
-      <h3><a href="{{ site.baseurl }}{{ post.url }}">{% if post.title and post.title != "" %}{{post.title}}{% else %}{{post.excerpt |strip_html}}{%endif%}</a></h3>
-    </article>
-    {% endfor %}
-    {% endif %}
+<div id="projects">
+  <div class="project-item">
+    <h3>Project Title 1</h3>
+    <p>Short description of Project 1. Highlight key features, technologies used, or anything unique about the project.</p>
+    <a href="http://example.com/project1" target="_blank">View Project</a>
   </div>
-{% endfor %}
+  
+  <div class="project-item">
+    <h3>Project Title 2</h3>
+    <p>Short description of Project 2. Highlight key features, technologies used, or anything unique about the project.</p>
+    <a href="http://example.com/project2" target="_blank">View Project</a>
+  </div>
+
+  <div class="project-item">
+    <h3>Project Title 3</h3>
+    <p>Short description of Project 3. Highlight key features, technologies used, or anything unique about the project.</p>
+    <a href="http://example.com/project3" target="_blank">View Project</a>
+  </div>
+
+  <!-- Add more project items as needed -->
 </div>
+
+<style>
+  #projects {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  .project-item {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  }
+
+  .project-item h3 {
+    margin-top: 0;
+  }
+
+  .project-item a {
+    display: inline-block;
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+  }
+
+  .project-item a:hover {
+    text-decoration: underline;
+  }
+</style>
