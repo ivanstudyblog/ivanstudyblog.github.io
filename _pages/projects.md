@@ -27,6 +27,17 @@ title: Projects
     <p><b>Tech: Neo4j graph DB, Sklearn, PyG, Mlflow, Kafka, Grafana, Mage orchestration, Docker, Streamlit</b></p>
     <a href="https://github.com/divakaivan/kb_project" target="_blank">View on GitHub</a>
   </div>
+
+  <div class="project-item">
+    <h3>Glaswegian Audio Dataset and ASR model</h3>
+    <p>
+      <li>Co-create a 120 minute open-sourced Glaswegian dataset</li>
+      <li>Preprocess raw audio and transcriptions and upload to HuggingFace</li>
+      <li>Research into audio AI models and fine-tune ASR and TTS models</li>
+    </p>
+    <p><b>Tech: HuggingFace, Python, Fine-Tuning, Audio AI</b></p>
+    <a href="https://huggingface.co/datasets/divakaivan/glaswegian_audio" target="_blank">View on HuggingFace</a>
+  </div>
   
   <div class="project-item">
     <h3>MLOps Architecture for Insurance Fraud Detection</h3>
