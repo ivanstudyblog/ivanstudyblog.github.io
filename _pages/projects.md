@@ -13,7 +13,7 @@ title: Projects
       <li>Ask follow-up questions (the language model can see the chat history)</li>
       <li>On the dev side, see how the RAG is performing by analysing prompts and retrieved information</li>
     </p>
-    <p><b>Tech: SQLite, OpenAI, HuggingFace, LlamaIndex, Azire Pheonix, Streamlit</b></p>
+    <p><b>Tech: SQLite, OpenAI, HuggingFace, LlamaIndex, Azire Pheonix monitoring, Streamlit</b></p>
     <a href="https://github.com/divakaivan/personal_finance_assistant" target="_blank">View on GitHub</a>
   </div>
   
@@ -31,7 +31,7 @@ title: Projects
   <div class="project-item">
     <h3>MLOps Architecture for Insurance Fraud Detection</h3>
     <p>
-      <li>building an end-to-end MLOps pipeline to detect car insurance fraud</li>
+      <li>Building an end-to-end MLOps pipeline to detect car insurance fraud</li>
       <li>Pipeline orchestration covering data storage, data preprocessing (using IV and WoE), model training, deployment, and monitoring</li>
       <li>Focus on achieving high recall in fraud detection using a Balanced Random Forest Classifier</li>
     </p>
