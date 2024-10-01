@@ -6,6 +6,30 @@ title: Projects
 
 <div id="projects">
   <div class="project-item">
+    <h3>MLOps Architecture for Real-Time Fraud Detection</h3>
+    <p>
+      <li>An AI-driven solution for real-time credit card fraud detection using MLOps techniques</li>
+      <li>Fully orchestrated pipelines, including data ingestion, model training, and real-time prediction and monitoring</li>
+      <li>High fraud case detection through Graph Convolutional Network, XGBoost, and CatBoost models</li>
+    </p>
+    <p><b>Tech: Neo4j graph DB, Sklearn, PyG, Mlflow, Kafka, Grafana, Mage orchestration, Docker, Streamlit</b></p>
+    <a href="https://github.com/divakaivan/kb_project" target="_blank">View on GitHub</a>
+  </div>
+
+  <div class="project-item">
+    <h3>Transaction Stream Data Engineering Pipeline</h3>
+    <p>
+      <li>Generate transaction data via Stripe's API</li>
+      <li>Stream data using Apache Kafka and process it in real-time with PySpark Structured Streaming</li>
+      <li>Store processed data in PostgreSQL</li>
+      <li>Manage data transformations and modeling using dbt</li>
+      <li>Visualize data using Grafana</li>
+    </p>
+    <p><b>Tech: PostgreSQL DB, Kafka, PySpark, dbt, Grafana</b></p>
+    <a href="https://github.com/divakaivan/transaction-stream-data-pipeline" target="_blank">View Project</a>
+  </div>
+  
+  <div class="project-item">
     <h3>Your Personal Finance Voice Assistant</h3>
     <p>
       <li>Chat, Talk, Learn and Analyse your spending habits with your Personal Finance Assistant</li>
@@ -15,17 +39,6 @@ title: Projects
     </p>
     <p><b>Tech: SQLite, OpenAI, HuggingFace, LlamaIndex, Azire Pheonix monitoring, Streamlit</b></p>
     <a href="https://github.com/divakaivan/personal_finance_assistant" target="_blank">View on GitHub</a>
-  </div>
-  
-  <div class="project-item">
-    <h3>MLOps Architecture for Real-Time Fraud Detection</h3>
-    <p>
-      <li>An AI-driven solution for real-time credit card fraud detection using MLOps techniques</li>
-      <li>Fully orchestrated pipelines, including data ingestion, model training, and real-time prediction and monitoring</li>
-      <li>High fraud case detection through Graph Convolutional Network, XGBoost, and CatBoost models</li>
-    </p>
-    <p><b>Tech: Neo4j graph DB, Sklearn, PyG, Mlflow, Kafka, Grafana, Mage orchestration, Docker, Streamlit</b></p>
-    <a href="https://github.com/divakaivan/kb_project" target="_blank">View on GitHub</a>
   </div>
 
   <div class="project-item">
@@ -48,19 +61,6 @@ title: Projects
     </p>
     <p><b>Tech: PostgreSQL DB, Terraform, Google Cloud Platform, Mlflow, Prefect, Grafana, Evidently, Docker, FastAPI</b></p>
     <a href="https://github.com/divakaivan/insurance-fraud-mlops-pipeline" target="_blank">View Project</a>
-  </div>
-
-  <div class="project-item">
-    <h3>Transaction Stream Data Engineering Pipeline</h3>
-    <p>
-      <li>Generate transaction data via Stripe's API</li>
-      <li>Stream data using Apache Kafka and process it in real-time with PySpark Structured Streaming</li>
-      <li>Store processed data in PostgreSQL</li>
-      <li>Manage data transformations and modeling using dbt</li>
-      <li>Visualize data using Grafana</li>
-    </p>
-    <p><b>Tech: PostgreSQL DB, Kafka, PySpark, dbt, Grafana</b></p>
-    <a href="https://github.com/divakaivan/transaction-stream-data-pipeline" target="_blank">View Project</a>
   </div>
 
   <div class="project-item">
