@@ -76,6 +76,33 @@ title: Projects
     <p><b>Tech: Docker, Mage orchestration, Google Cloud Platform, Terraform, dbt, Looker</b></p>
     <a href="https://github.com/divakaivan/lending-club-data-pipeline" target="_blank">View Project</a>
   </div>
+
+  <h2>Other</h2>
+  <div class="project-item">
+    <h4><a href="https://www.kaggle.com/divakaivan12/code" target="_blank">Notebook Expert on Kaggle</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://www.kaggle.com/code/divakaivan12/the-full-story-behind-multicollinearity" target="_blank">Diving into the full story behind multicollinearity</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://www.kaggle.com/code/divakaivan12/neural-network-epoch-by-hand" target="_blank">Doing a neural network epoch by hand</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://github.com/divakaivan/text2chart" target="_blank">text2chart - transforming natural language to charts</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://github.com/divakaivan/pdf-rag-from-scratch" target="_blank">PDF RAG from scratch</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://github.com/divakaivan/taxi-demand-video-models-paper" target="_blank">Using Video Generation Models for Taxi OD Demand Matrix Predictions</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://github.com/divakaivan/db2chat" target="_blank">db2chat - chat with your (SQLite) database</a></h4>
+  </div>
+  <div class="project-item">
+    <h4><a href="https://github.com/divakaivan/classify_hangul" target="_blank">CV model to classify Hangul characters</a></h4>
+  </div>
+  
 </div>
 
 <style>
@@ -93,6 +120,10 @@ title: Projects
   }
 
   .project-item h3 {
+    margin-top: 0;
+  }
+
+  .project-item h4 {
     margin-top: 0;
   }
 
