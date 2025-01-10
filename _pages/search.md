@@ -17,5 +17,5 @@ permalink: /2025/
 * found podcasts episodes with MarvelousMLOps' [Maria](https://youtu.be/Nnq_2uHBUSo) and [Başak](https://youtu.be/2v8Sops3n1A) and read through a lot of [MarvelousMLops' posts](https://marvelousmlops.substack.com/) 
 * did a conceptual, logical (+physical in Neo4j) graph data model for [EU AI Act data](https://www.linkedin.com/posts/activity-7282017446650159104-gYlO?utm_source=share&utm_medium=member_desktop)
 * read [Machine Learning Engineering with Python - Second Edition](https://learning.oreilly.com/library/view/machine-learning-engineering/9781837631964/)
-* doing practice questions on [Data Lemur](https://datalemur.com/)
+* doing daily practice questions on [Data Lemur](https://datalemur.com/)
 * read through [Software Engineering for Data Scientists](https://learning.oreilly.com/library/view/software-engineering-for/9781098136192/)
