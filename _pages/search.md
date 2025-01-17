@@ -11,9 +11,10 @@ permalink: /2025/
 * Jan 27th - Mar 16th - I am doing Maria Vechtomova and Başak Eskili's End-to-end MLOps with Databricks boot camp (got as a Christmas present 😆)
 * Jan 6th - Mar 2nd - I am doing Zach Wilson's Data Engineering boot camp (won my spot by being an active member and helper in Zach's free DE boot camp)
 
-**Personal studies**
+**Other studies**
 
-* started doing [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
+* (ongoing) reading Chip Huyen's [ML Interviews book](https://huyenchip.com/ml-interviews-book/)
+* (ongoing) [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
 * finished all SQL questions in Data Lemur (also ML and Stats)
 * re-watched CS50's lectures on [Data Structures, Algorithms, C](https://cs50.harvard.edu/x/2025/)
 * covered a practical [Kubernetes course](https://www.youtube.com/watch?v=d6WC5n9G_sM&pp=ygUZa3ViZXJuZXRlcyBpbnRybyBic3RzY2h1aw%3D%3D) (really good!)
