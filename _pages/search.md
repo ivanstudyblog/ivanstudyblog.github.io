@@ -13,8 +13,10 @@ permalink: /2025/
 
 **Other studies**
 
-* (ongoing) reading Chip Huyen's [ML Interviews book](https://huyenchip.com/ml-interviews-book/)
 * (ongoing) [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
+* (ongoing) reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* (ongoing) covering [Stanford's MLSys seminar series](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+* reading Chip Huyen's [ML Interviews book](https://huyenchip.com/ml-interviews-book/)
 * finished all SQL questions in Data Lemur (also ML and Stats)
 * re-watched CS50's lectures on [Data Structures, Algorithms, C](https://cs50.harvard.edu/x/2025/)
 * covered a practical [Kubernetes course](https://www.youtube.com/watch?v=d6WC5n9G_sM&pp=ygUZa3ViZXJuZXRlcyBpbnRybyBic3RzY2h1aw%3D%3D) (really good!)
