@@ -8,14 +8,14 @@ permalink: /2025/
 
 **Boot camps**
 
-* Jan 27th - Mar 16th - I am doing Maria Vechtomova and Başak Eskili's End-to-end MLOps with Databricks boot camp (got as a Christmas present 😆)
-* Jan 6th - Mar 2nd - I am doing Zach Wilson's Data Engineering boot camp (won my spot by being an active member and helper in Zach's free DE boot camp)
+* (ongoing) Jan 27th - Mar 16th - I am doing Maria Vechtomova and Başak Eskili's End-to-end MLOps with Databricks boot camp (got as a Christmas present 😆)
+* (ongoing) Jan 6th - Mar 2nd - I am doing Zach Wilson's Data Engineering boot camp (won my spot by being an active member and helper in Zach's free DE boot camp)
 
 **Other studies**
 
-* (ongoing) [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/)
-* (ongoing) reading Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
+* (ongoing) [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode
 * (ongoing) covering [Stanford's MLSys seminar series](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+* read Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * reading Chip Huyen's [ML Interviews book](https://huyenchip.com/ml-interviews-book/)
 * finished all SQL questions in Data Lemur (also ML and Stats)
 * re-watched CS50's lectures on [Data Structures, Algorithms, C](https://cs50.harvard.edu/x/2025/)
