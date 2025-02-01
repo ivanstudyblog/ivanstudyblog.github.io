@@ -15,6 +15,8 @@ permalink: /2025/
 
 * (ongoing) [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode
 * (ongoing) covering [Stanford's MLSys seminar series](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+* (ongoing) covering [MIT's Intro to Algorithms Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
+* read [Refactoring Guru's design patterns](https://refactoring.guru/)
 * read Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin
 * reading Chip Huyen's [ML Interviews book](https://huyenchip.com/ml-interviews-book/)
 * finished all SQL questions in Data Lemur (also ML and Stats)
