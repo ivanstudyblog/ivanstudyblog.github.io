@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ed4f2479-c8db-4ea7-a7c1-c33478801948)---
+---
 layout: page
 title: Casual 2025 learning blog
 permalink: /2025/
