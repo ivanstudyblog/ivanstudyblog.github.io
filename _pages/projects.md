@@ -6,6 +6,26 @@ title: Projects
 
 <div id="projects">
   <div class="project-item">
+    <h3>MLOps 101 Project for a mini-course I teach</h3>
+    <p>
+      <li>After learning a tonne from great online teachers, and projects I decided to transfer my knowledge onto undergraduate students who are curious about the life of a model outside the Jupyter notebook</li>
+      <li>An end-to-end ML system that processes taxi data, stores models in a model registry, exposes them via an API, and deploys this API to Google Cloud, and keeps logs for observability</li>
+    </p>
+    <p><b>Tech: scikit-learn, EvidentlyAI, FastAPI, MLFlow, Docker, Github Actions, Terraform, Google Cloud (GCS, Logging, Compute Engine, Artifact Registry, Kubernetes Engine)</b></p>
+    <a href="https://github.com/divakaivan/mlops-101" target="_blank">View Project</a>
+  </div>
+
+  <div class="project-item">
+    <h3>Esports Voice Data Pipeline (Zach Wilson's DE bootcamp capstone)</h3>
+    <p>
+      <li>Esports team communication data is normally kept private, but for the first time a team is sharing their full voice communication records so with this I am showing a prototype of a pipeline that utilises audio data to extract communication patterns</li>
+      <li>In addition, I developed visualizations that uncover communication patterns and dynamics, providing the underlying team with actionable insights to enhance their gameplay</li>
+    </p>
+    <p><b>Tech: Airflow, dbt, Google BigQuery, Google Cloud Storage, Streamlit, Terraform, Github Actions, Astronomer</b></p>
+    <a href="https://github.com/divakaivan/lolesports-voice-analytics" target="_blank">View Project</a>
+  </div>
+  
+  <div class="project-item">
     <h3>MLOps Architecture for Real-Time Fraud Detection</h3>
     <p>
       <li>An AI-driven solution for real-time credit card fraud detection using MLOps techniques</li>
@@ -13,7 +33,19 @@ title: Projects
       <li>High fraud case detection through Graph Convolutional Network, XGBoost, and CatBoost models</li>
     </p>
     <p><b>Tech: Neo4j graph DB, Sklearn, PyG, Mlflow, Kafka, Grafana, Mage orchestration, Docker, Streamlit</b></p>
-    <a href="https://github.com/divakaivan/kb_project" target="_blank">View on GitHub</a>
+    <a href="https://github.com/divakaivan/kb_project" target="_blank">View Project</a>
+  </div>
+
+  <div class="project-item">
+    <h3>Voice-to-Voice Personal Finance Assistant</h3>
+    <p>
+      <li>Talk, Learn and Analyse your spending habits with your Personal Finance Assistant AI Agent. Communicate through speech</li>
+      <li>Frontend + Backend communicating via a websocket</li>
+      <li>Ask follow-up questions (the language model can see the chat history)</li>
+      <li>Detailed observability of live and historical connections to the server via Pydantic Logfire</li>
+    </p>
+    <p><b>Tech: Webhooks, FastAPI, PydanticAI, Logfire, SQLite, OpenAI, Ollama, PostgreSQL, React</b></p>
+    <a href="https://github.com/divakaivan/voice2voice-banking-assistant" target="_blank">View on GitHub</a>
   </div>
 
   <div class="project-item">
@@ -27,18 +59,6 @@ title: Projects
     </p>
     <p><b>Tech: PostgreSQL DB, Kafka, PySpark, dbt, Grafana</b></p>
     <a href="https://github.com/divakaivan/transaction-stream-data-pipeline" target="_blank">View Project</a>
-  </div>
-  
-  <div class="project-item">
-    <h3>Your Personal Finance Voice Assistant</h3>
-    <p>
-      <li>Chat, Talk, Learn and Analyse your spending habits with your Personal Finance Assistant</li>
-      <li>Communicate through text or speech</li>
-      <li>Ask follow-up questions (the language model can see the chat history)</li>
-      <li>On the dev side, see how the RAG is performing by analysing prompts and retrieved information</li>
-    </p>
-    <p><b>Tech: SQLite, OpenAI, HuggingFace, LlamaIndex, Azire Pheonix monitoring, Streamlit</b></p>
-    <a href="https://github.com/divakaivan/personal_finance_assistant" target="_blank">View on GitHub</a>
   </div>
 
   <div class="project-item">
