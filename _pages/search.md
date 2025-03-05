@@ -6,18 +6,21 @@ permalink: /2025/
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
+*Updated: 5th March 2025*
+
 **Bootcamps**
 
 * (ongoing) Jan 27th - Mar 16th - I am doing Maria Vechtomova and Başak Eskili's End-to-end MLOps with Databricks boot camp (got as a Christmas present 😆)
-* (ongoing) Jan 6th - Mar 2nd - I am doing Zach Wilson's Data Engineering boot camp (won my spot by being an active member and helper in Zach's free DE boot camp)
+* (finished) Jan 6th - Mar 2nd - I am doing Zach Wilson's Data Engineering boot camp (won my spot by being an active member and helper in Zach's free DE boot camp)
 
 **Other studies**
 
+* (ongoing) reading Alex Xu's System Design Interview (Vol. 1)
 * (ongoing) covering the study materials for [Certified Kubernetes Applications Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/) (CKAD)
 * (ongoing) reading through [ByteByteGo's ML System Design book](https://bytebytego.com/)
-* (ongoing) covering [Stanford's CS149 - Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 * (ongoing) [leetcode's DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode
 * (ongoing) covering [Stanford's MLSys seminar series](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
+* (Mar) covering [Stanford's CS149 - Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 * (Feb) read [ML for Tabular data](https://www.manning.com/books/machine-learning-for-tabular-data) by Mark Ryan and Luca Massaron
 * (Feb) covered [MIT's Intro to Algorithms Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 * (Feb) [Finished an example project for a MLOps 101 mini-course I will teach to my university club](https://github.com/divakaivan/mlops-101)
