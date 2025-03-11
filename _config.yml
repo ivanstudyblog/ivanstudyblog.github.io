@@ -99,3 +99,9 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "feed.xml"
