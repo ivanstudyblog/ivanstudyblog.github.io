@@ -16,6 +16,27 @@ title: Projects
   </div>
 
   <div class="project-item">
+    <h3>RSS Aggregator API</h3>
+    <p>
+      <li>Developed an API that allows users to authenticate, scrape RSS feeds, follow feeds of their choice, and view posts from those feeds</li>
+      <li>The API is fully tested, dockerized, and available on Docker Hub</li>
+      <li>Deployed the API in a local Kubernetes setup with dashboards for monitoring both Kubernetes and the API</li>
+    </p>
+    <p><b>Tech: Go, PostgreSQL, GitHub Actions, Docker, Kubernetes, Prometheus, Grafana</b></p>
+    <a href="https://github.com/divakaivan/rssagg" target="_blank">View Project</a>
+  </div>
+  
+  <div class="project-item">
+    <h3>Platform Engineering with Backstage</h3>
+    <p>
+      <li>Built and deployed a Python API, created CI/CD pipelines with GitHub Actions, Helm, and ArgoCD for streamlined Kubernetes deployments</li>
+      <li>Registered components in Backstage’s software catalog, managed team ownership, published TechDocs, and deployed Backstage in production using Docker & Kubernetes</li>
+    </p>
+    <p><b>Tech: GitHub Actions, Docker, Kubernetes, ArgoCD, Helm, Backstage</b></p>
+    <a href="https://www.youtube.com/watch?v=i4cQzjRNz4M" target="_blank">View Video</a>
+  </div>
+
+  <div class="project-item">
     <h3>Esports Voice Data Pipeline (Zach Wilson's DE bootcamp capstone)</h3>
     <p>
       <li>Esports team communication data is normally kept private, but for the first time a team is sharing their full voice communication records so with this I am showing a prototype of a pipeline that utilises audio data to extract communication patterns</li>
