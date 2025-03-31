@@ -1,12 +1,19 @@
 ---
 layout: page
-title: Casual 2025 learning blog
+title: Monthly 2025 learning blog
 permalink: /2025/
 ---
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
-*Updated: 30th March 2025*
+*Updated: 31st March 2025*
+
+## April *(currently)*
+
+* [book] Write an interpreter in Go by [Throsten Ball](https://interpreterbook.com/)
+* [leetcode] [DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode (Jan - ongoing)
+* [bootcamp] will be part of Eric Riddoch's [Cloud Engineering for Python Devs](https://mlops-club.org/) bootcamp (Apr - May)
+
 
 ## March
 
@@ -19,15 +26,14 @@ permalink: /2025/
 * [book] (Feb - Mar) read [ByteByteGo's ML System Design book](https://bytebytego.com/)
 * [book-ish] read through FastAPI's full documentation (amazing)
 * [book-ish] read through Kubernetes' documentation related to CKAD (very nice examples)
-* [leetcode] (Jan - ongoing) [DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode
 * [course] covered the study materials for [Certified Kubernetes Applications Developer](https://www.udemy.com/course/certified-kubernetes-application-developer/) (CKAD)
 * [course] (Jan-Mar) watched some of [Stanford's MLSys seminar series](https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq)
 * [course] covered [Stanford's CS149 - Parallel Computing](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp)
 * [mini-course] built a [mini-http server from scratch](https://github.com/divakaivan/build-http-scratch) & [learned about nginx](https://github.com/divakaivan/nginx-crash-course)
 * [course] covered Eric Riddoch's [Taking Python to Production: A Professional Onboarding Guide](https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/)
-* [bootcamp] will be part of Eric Riddoch's [Cloud Engineering for Python Devs](https://mlops-club.org/) bootcamp
 * [bootcamp] (Jan - Mar) completed Maria Vechtomova and Başak Eskili's End-to-end MLOps with Databricks boot camp (got as a Christmas present 😆)
 * [bootcamp] (Jan - Mar) Completed Zach Wilson's Data Engineering boot camp (won my spot by being an active member and helper in Zach's free DE boot camp) - [Combined Certificate of Superbness](https://www.dataexpert.io/certification/divakaivan/combined-superb)
+
 
 ## February
 
@@ -36,6 +42,7 @@ permalink: /2025/
 * [project] [Finished an example project for a MLOps 101 mini-course I will teach to my university club](https://github.com/divakaivan/mlops-101)
 * [project] [Finished a full-stack voice-to-voice app that lets users interact with their finances through an AI agent](https://github.com/divakaivan/voice2voice-banking-assistant)
 * [project] [Finished my capstone for Zach Wilson's bootcamp - Using voice data to extract insight from team communication](https://github.com/divakaivan/lolesports-voice-analytics)
+
 
 ## January
 
