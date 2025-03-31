@@ -8,12 +8,13 @@ permalink: /2025/
 
 *Updated: 31st March 2025*
 
-## April *(currently)*
+## April *(ongoing, not final)*
 
-* [book] Write an interpreter in Go by [Throsten Ball](https://interpreterbook.com/)
 * [leetcode] [DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode (Jan - ongoing)
-* [bootcamp] will be part of Eric Riddoch's [Cloud Engineering for Python Devs](https://mlops-club.org/) bootcamp (Apr - May)
-
+* [bootcamp] will be part of Eric Riddoch's [Cloud Engineering for Python Devs](https://mlops-club.org/) bootcamp (~7-8 weeks)
+* continue reviewing/studying system design concepts + [hellointerview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) + [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
+* [book] will go through Write an interpreter in Go by [Throsten Ball](https://interpreterbook.com/) (+ compiler in Go)
+* [book] will read REST API design rule book by [Mark Masse](https://www.oreilly.com/library/view/rest-api-design/9781449317904/)
 
 ## March
 
