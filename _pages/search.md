@@ -6,15 +6,32 @@ permalink: /2025/
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
-*Updated: 31st March 2025*
+*Updated: 1 May 2025*
 
-## April *(ongoing, not final)*
+## May *ongoing/not final*
 
-* [leetcode] [DSA course](https://leetcode.com/explore/interview/card/leetcodes-interview-crash-course-data-structures-and-algorithms/) + blind 75/150 from neetcode (Jan - ongoing)
-* [bootcamp] will be part of Eric Riddoch's [Cloud Engineering for Python Devs](https://mlops-club.org/) bootcamp (~7-8 weeks)
-* continue reviewing/studying system design concepts + [hellointerview](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction) + [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
-* [book] will go through Write an interpreter in Go by [Throsten Ball](https://interpreterbook.com/) (+ compiler in Go)
-* [book] will read REST API design rule book by [Mark Masse](https://www.oreilly.com/library/view/rest-api-design/9781449317904/)
+* preparing for potential interviews
+* continue learning Go and and its application in creating backends/interpreters/databases
+* continue reviewing/studying system design concepts
+* continue with Stanford's AA228V course
+* teaching Python in Stanford's Code in Place 2025
+* learning about FastAPI apps on AWS - [Cloud Engineering for Python Devs](https://mlops-club.org/)
+
+## April 
+
+* [course] Started teaching Python in Stanford's Code in Place 2025
+* [course] Started Stanford's AA228V Validation of Safety Critical Systems I System Modeling [link](https://www.youtube.com/watch?v=hE9iWwMZANE&list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC)
+* [course] Learned about memory management in C and built a basic garbage collector on [boot.dev](https://www.boot.dev/courses/learn-memory-management-c)
+* [course] Finished teaching the [MLOps 101](https://github.com/divakaivan/mlops-101) course at my university club
+* [oss] Made my first oss contributions to [skore - the scikit-learn sidekick](https://github.com/probabl-ai/skore)
+* [mini-project] [Develop an ML model API following the Open Inference Protocol](https://github.com/divakaivan/model-api-oip)
+* [book] [The Last Algorithms Course You'll Need](https://theprimeagen.github.io/fem-algos)
+* [book] Write an interpreter in Go by [Throsten Ball](https://interpreterbook.com/) + [this youtube series about a language parser in Go](https://www.youtube.com/watch?v=SWjFg5n23-g)
+* [book] The Alignment Problem by Brian Christian
+* [book] [Let's Go](https://lets-go.alexedwards.net/) by Alex Edwards
+* [book] [Build Your Own Database From Scratch in Go](https://build-your-own.org/database/)
+* [cartoon-book] [How HTTPS Works](https://howhttps.works/)
+* [btw] Started using neovim when writing Go and I ❤️ it
 
 ## March
 
