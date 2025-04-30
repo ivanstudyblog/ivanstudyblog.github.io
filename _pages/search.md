@@ -10,7 +10,6 @@ permalink: /2025/
 
 ## May *ongoing/not final*
 
-* preparing for potential interviews
 * continue learning Go and and its application in creating backends/interpreters/databases
 * continue reviewing/studying system design concepts
 * continue with Stanford's AA228V course
