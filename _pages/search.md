@@ -6,15 +6,16 @@ permalink: /2025/
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
-*Updated: 1 May 2025*
+*Updated: 1 June 2025*
 
-## May *ongoing/not final*
+## May
 
-* continue learning Go and and its application in creating backends/interpreters/databases
-* continue reviewing/studying system design concepts
-* continue with Stanford's AA228V course
-* teaching Python in Stanford's Code in Place 2025
-* learning about FastAPI apps on AWS - [Cloud Engineering for Python Devs](https://mlops-club.org/)
+* [book] Finished Writing an Interpreter in Go (along with some YT videos) - have a bit better understanding of how interpreters work
+* [teach] Completed my last official session for Stanford's Code in Place 2025 - will have a voluntary extra session to answer any student questions
+* [teach] Did 9 TeachNow sessions in the Code in Place platform (1-to-1 help sessions around 30mins each)
+* [zig] Read the Zig language docs + did Ziglings on youtube
+* [zig] Writing Karpathy's micrograd in Zig for AI + Zig practice (wip)
+* [course] Concluded Eroc Riddoch's Cloud Eng for Python devs course
 
 ## April 
 
