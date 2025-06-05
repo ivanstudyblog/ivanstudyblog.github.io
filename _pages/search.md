@@ -11,6 +11,7 @@ permalink: /2025/
 ## May
 
 * [book] Finished Writing an Interpreter in Go (along with some YT videos) - have a bit better understanding of how interpreters work
+* [tool] Explored ICO's AI and Data protection risk toolkint + Microsoft's responsible AI toolbox
 * [teach] Completed my last official session for Stanford's Code in Place 2025 - will have a voluntary extra session to answer any student questions
 * [teach] Did 9 TeachNow sessions in the Code in Place platform (1-to-1 help sessions around 30mins each)
 * [zig] Read the Zig language docs + did Ziglings on youtube
