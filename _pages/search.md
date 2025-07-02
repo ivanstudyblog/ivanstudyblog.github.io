@@ -6,7 +6,24 @@ permalink: /2025/
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
-*Updated: 1 June 2025*
+*Updated: 1 July 2025*
+
+## June 
+
+- [teach] Finished my Stanford University Code in Place 2025 Section Leader responsibilities 🥳 
+- [mini-project] Network programming in C during my flight. I was on a ~15hr transfer so I wanted to do something that doesn't require wifi. I found "Beef's introduction to Network programmin" and it blew my mind with how easy it describes networking concepts, with great examples and I was able to create my own scripts:
+
+I ended up making 3 things (some of the code overlaps):
+1. Read entire data.txt into memory and send over TCP to a client
+2. Stream large data.txt in fix-sized chunks over TCP
+3. Receive TCP data and write to stdout
+
+[Github](https://github.com/divakaivan/networking-in-c)
+
+- [book] Read "Make It Stick: The Science of Successful Learning" - amazing 
+- [mini-project] Created a simple ssh politics.news terminal app to help introduce people interested in politics to the terminal (inspired by ssh terminal.shop) (using Go, wish, bubblegum, other Charm libs); [Github](https://github.com/divakaivan/politics.news) (need to add README and figure out if I can deploy it for free somewhere)
+- [book] Read "Responsible AI: implementing unbiased and ethical algorithms" - amazing; definitely something to re-read, refer to for responsible AI questions, and recommend to beginners
+
 
 ## May
 
