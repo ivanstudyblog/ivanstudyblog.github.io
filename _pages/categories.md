@@ -4,7 +4,7 @@ permalink: /esoc/
 title: ESoC skore contributions
 ---
 
-<h1>My Contributions to <a href="https://github.com/probabl-ai/skore" target="_blank">probabl-ai/skore</a> during my European Summer of Code 2025 stipend period</h1>
+<h2>My Contributions to <a href="https://github.com/probabl-ai/skore" target="_blank">probabl-ai/skore</a> during my European Summer of Code 2025 stipend period</h2>
 <ul id="prs"><strong>Pull Requests</strong></ul>
 <ul id="issues"><strong>Issues</strong></ul>
 
