@@ -30,11 +30,24 @@ async function fetchPRs() {
   const res = await fetch(url);
   const data = await res.json();
   const container = document.getElementById('prs');
-  data.items.forEach(pr => {
-    const li = document.createElement('li');
-    li.innerHTML = `<a href="${pr.html_url}" target="_blank">${pr.title}</a>`;
-    container.appendChild(li);
-  });
+
+  for (const pr of data.items) {
+    const prNumber = pr.number;
+
+    // Fetch full PR details to check merged status
+    const prDetailsRes = await fetch(`https://api.github.com/repos/${repo}/pulls/${pr.number}`);
+    const prDetails = await prDetailsRes.json();
+
+    const isOpen = prDetails.state === 'open';
+    const isMerged = prDetails.merged_at !== null;
+
+    if (isOpen || isMerged) {
+      const li = document.createElement('li');
+      const status = isOpen ? '🟢 Open' : '🟣 Merged';
+      li.innerHTML = `<a href="${pr.html_url}" target="_blank">${pr.title}</a> <small>(${status})</small>`;
+      container.appendChild(li);
+    }
+  }
 }
 
 async function fetchIssues() {
