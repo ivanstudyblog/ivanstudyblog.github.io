@@ -8,9 +8,7 @@ title: ESoC skore contributions
 <div id="contributions"></div>
 
 <script>
-  const username = "divakaivan"; // replace with your username
-  const repo = "probabl-ai/skore"; // or loop over multiple repos
-  const url = `https://api.github.com/repos/${username}/${repo}/commits?author=${username}`;
+  const url = `https://api.github.com/repos/probabl-ai/skore/commits?author=divakaivan`;
 
   fetch(url)
     .then(res => res.json())
