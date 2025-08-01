@@ -5,6 +5,9 @@ title: ESoC skore contributions
 ---
 
 <h2>My Contributions to <a href="https://github.com/probabl-ai/skore" target="_blank">probabl-ai/skore</a> during my European Summer of Code 2025 stipend period</h2>
+
+I [won a stipend](https://www.linkedin.com/posts/activity-7350417081953079297-FBY1) from the European Summer of Code to contribute to an OSS project - **skore - the scikit-learn sidekick**, by [probabl.ai](https://probabl.ai/).
+
 <ul id="prs"><strong>Pull Requests</strong></ul>
 <ul id="issues"><strong>Issues</strong></ul>
 
