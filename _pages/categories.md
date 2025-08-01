@@ -15,14 +15,6 @@ title: ESoC skore contributions
   fetch(url)
     .then(res => res.json())
     .then(data => {
-      const container = document.getElementById("contributions");
-      data.forEach(commit => {
-        const item = document.createElement("div");
-        item.innerHTML = `
-          <p><strong>${commit.commit.message}</strong></p>
-          <p><a href="${commit.html_url}" target="_blank">View Commit</a></p>
-        `;
-        container.appendChild(item);
-      });
+      console.log(data)
     });
 </script>
