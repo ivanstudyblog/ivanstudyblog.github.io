@@ -6,7 +6,14 @@ permalink: /2025/
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
-*Updated: 1 July 2025*
+*Updated: 1 Aug 2025*
+
+## July
+
+- started my OSS contributor journey with probabl.ai under the European Summer of Code stipend; I also added a new page to me blog fetching my contributions - [ESoC page](https://ivanstudyblog.github.io/esoc)
+- new youtube video Using keras SKLearnClassifier in a skore report - [youtube](https://youtu.be/Hpiuwc-Dxog)
+- decided to learn more about OS -> found [OS in 1000 lines of code](https://operating-system-in-1000-lines.vercel.app/en/)
+- dived into *that XOR trick* and how python's sum() works
 
 ## June 
 
