@@ -10,7 +10,7 @@ I [won a stipend](https://www.linkedin.com/posts/activity-7350417081953079297-FB
 
 <ul id="prs"><strong>Pull Requests</strong></ul>
 
-<a href="https://github.com/skorch-dev/skorch/pull/1119" target="_blank">Implement `__sklearn_is_fitted__` for skorch models, following sklearn custom model protocol</a> <small>(🟣 Merged)</small>
+<li><a href="https://github.com/skorch-dev/skorch/pull/1119" target="_blank">Implement `__sklearn_is_fitted__` for skorch models, following sklearn custom model protocol</a> <small>(🟣 Merged)</small></li>
 
 <ul id="issues"><strong>Issues</strong></ul>
 
