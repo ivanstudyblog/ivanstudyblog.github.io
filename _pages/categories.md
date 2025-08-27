@@ -8,9 +8,15 @@ title: ESoC skore contributions
 
 I [won a stipend](https://www.linkedin.com/posts/activity-7350417081953079297-FBY1) from the European Summer of Code to contribute to an OSS project - **skore - the scikit-learn sidekick**, by [probabl.ai](https://probabl.ai/).
 
-<ul id="prs"><strong>Pull Requests</strong></ul>
-
-<li><a href="https://github.com/skorch-dev/skorch/pull/1119" target="_blank">Implement `__sklearn_is_fitted__` for skorch models, following sklearn custom model protocol</a> <small>(🟣 Merged)</small></li>
+<ul id="prs">
+  <strong>Pull Requests</strong>
+  <li>
+    <a href="https://github.com/skorch-dev/skorch/pull/1119" target="_blank">
+      Implement `__sklearn_is_fitted__` for skorch models, following sklearn custom model protocol
+    </a>
+    <small>(🟣 Merged)</small>
+  </li>
+</ul>
 
 <ul id="issues"><strong>Issues</strong></ul>
 
