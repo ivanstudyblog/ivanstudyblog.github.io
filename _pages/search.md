@@ -6,7 +6,34 @@ permalink: /2025/
 
 ### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
 
-*Updated: 1 Aug 2025*
+*Updated: 1 Dec 2025*
+
+## November
+
+- While helping my partner I realised that Ridge and Lasso can be derived from Bayesian modelling with a Normal and Laplace prior, respectively and decided to derive it for fun ([post here](https://www.linkedin.com/feed/update/urn:li:activity:7384968272858791936/))
+- I saw that Stanford Uni updated the Computer Vision course taught by Fei-Fei Li so decided to re-watch [that whole thing](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
+- Started doing some of the introductory cyber security courses on tryhackme
+- In december, I will try to do Advent of Cyber by tryhackme (in addition to the usual advent of code)
+
+## October
+
+- Organised a small Discord community (~30 people) to follow along the scikit-learn MOOC. It's a great resource and I wanted to help others learn from it as well as it was amazingly helpful during my preparation for the scikit-learn certification exams
+- Read The Vital Question by Nick Lane - it was recommended by A. Karpathy many times so I decided to give it a go. As someone with super basic chemistry/biology knowledge (from high school), the book was hard to follow at times so from my first read I learned how unlikely it was that smart living creatures began to exist in some hot vent 3.5-4 billion years ago  
+
+## September
+
+- Attended PyData Paris and talked about skore on probabl's stand - learning what users like/want more
+- Presented skore at a local ML Club meetup (which kind of prepared me for PyData Paris)
+- Completed my European Summer of Code journey with probabl :pray:
+
+## August
+
+- Now that I am in a country with easy access to English books, I bought some favourites to start building my library
+  - Mathemtics for Machine Learning (physical version of http://mml-book.github.io/)
+  - Linear algebra: essence & form (physical version of https://www2.math.upenn.edu/~ghrist/preprints/LAEF.pdf)
+  - Make it stick: The science of successful learning
+- Of course I re-read them and I felt I knew more compared to ~1 year ago when I read them for the first time
+- Continued working on skore
 
 ## July
 
