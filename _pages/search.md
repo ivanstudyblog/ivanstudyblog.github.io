@@ -10,7 +10,8 @@ permalink: /2025/
 
 ## November
 
-- While helping my partner I realised that Ridge and Lasso can be derived from Bayesian modelling with a Normal and Laplace prior, respectively and decided to derive it for fun ([post here](https://www.linkedin.com/feed/update/urn:li:activity:7384968272858791936/))
+- Started reading the book Advances in Financial ML by Marcos López de Prado (still on chapter 1's exercises about using the popular sampling techniques - tick bars, volume bars, dollar bars, CUSUM filters)
+- While helping my partner for her Stat ML class, I realised that Ridge and Lasso can be derived from Bayesian modelling with a Normal and Laplace prior, respectively and decided to derive it for fun ([post here](https://www.linkedin.com/feed/update/urn:li:activity:7384968272858791936/))
 - I saw that Stanford Uni updated the Computer Vision course taught by Fei-Fei Li so decided to re-watch [that whole thing](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 - Started doing some of the introductory cyber security courses on tryhackme
 - In december, I will try to do Advent of Cyber by tryhackme (in addition to the usual advent of code)
@@ -18,7 +19,8 @@ permalink: /2025/
 ## October
 
 - Organised a small Discord community (~30 people) to follow along the scikit-learn MOOC. It's a great resource and I wanted to help others learn from it as well as it was amazingly helpful during my preparation for the scikit-learn certification exams
-- Read The Vital Question by Nick Lane - it was recommended by A. Karpathy many times so I decided to give it a go. As someone with super basic chemistry/biology knowledge (from high school), the book was hard to follow at times so from my first read I learned how unlikely it was that smart living creatures began to exist in some hot vent 3.5-4 billion years ago  
+- Read The Vital Question by Nick Lane - it was recommended by A. Karpathy many times so I decided to give it a go. As someone with super basic chemistry/biology knowledge (from high school), the book was hard to follow at times so from my first read I learned how unlikely it was that smart living creatures began to exist in some hot vent 3.5-4 billion years ago
+- Read The Social Contract by Jean-Jacques Rousseau (more books out of my comfort zone :D )
 
 ## September
 
