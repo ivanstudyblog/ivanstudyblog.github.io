@@ -4,9 +4,14 @@ title: Monthly 2025 learning blog
 permalink: /2025/
 ---
 
-### I will add bullet points in descending date order of some things I am doing (besides applying for jobs) in 2025
+### I added bullet points in descending date order of some things I am doing in 2025
 
-*Updated: 1 Dec 2025*
+*Updated: 31 Dec 2025*
+
+## December
+
+- completed tryhackme's Advent of Cyber 2025
+- read How We Learn by Stanislas Dehaene
 
 ## November
 
@@ -14,7 +19,7 @@ permalink: /2025/
 - While helping my partner for her Stat ML class, I realised that Ridge and Lasso can be derived from Bayesian modelling with a Normal and Laplace prior, respectively and decided to derive it for fun ([post here](https://www.linkedin.com/feed/update/urn:li:activity:7384968272858791936/))
 - I saw that Stanford Uni updated the Computer Vision course taught by Fei-Fei Li so decided to re-watch [that whole thing](https://www.youtube.com/playlist?list=PLoROMvodv4rOmsNzYBMe0gJY2XS8AQg16)
 - Started doing some of the introductory cyber security courses on tryhackme
-- In december, I will try to do Advent of Cyber by tryhackme (in addition to the usual advent of code)
+- In december, I will try to do Advent of Cyber by tryhackme
 
 ## October
 
