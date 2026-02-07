@@ -6,7 +6,7 @@ title: 2026
 
 ## Self-studying 2026
 
-*updated 4th Jan 2026*
+*updated 1st Feb 2026*
 
 Initial goals:
 
