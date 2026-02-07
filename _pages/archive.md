@@ -16,6 +16,11 @@ Initial goals:
 
 ## Monthly updates
 
+### February
+
+*will update at the end of Feb*
+
 ### January
 
-*at the end of Jan*
+- signup to KodeKloud's annual sub and covered the CKA course + CKA exam series - killer.sh exam simulatios
+- delayed taking a day off for the exam so will update if I passed CKA in Feb
