@@ -6,6 +6,14 @@ title: 2026
 
 # moved to https://divakaivan.github.io
 
+# moved to https://divakaivan.github.io
+
+# moved to https://divakaivan.github.io
+
+# moved to https://divakaivan.github.io
+
+# moved to https://divakaivan.github.io
+
 ## Self-studying 2026
 
 *updated 2st Mar 2026*
